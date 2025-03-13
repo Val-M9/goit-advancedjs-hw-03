@@ -6,7 +6,7 @@
   line-height: 1.5;
   font-weight: 400;
 
-  color: #242424;
+  color: rgba(46, 47, 66);
   background-color: rgba(255, 255, 255, 0.87);
 
   font-synthesis: none;
@@ -26,6 +26,8 @@
   --error-cl: 255, 78, 78;
   --black-cl: 0, 0, 0;
   --white-cl: 255, 255, 255;
+
+  --fast-trans: ease-in-out 0.3s;
 }
 
 body {
